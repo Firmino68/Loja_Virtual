@@ -52,4 +52,4 @@ Fontes: [PTI](https://pti.ao/unitel-anuncia-abertura-das-inscricoes-para-a-3o-ed
 
 ## Autor
 
-**Firmino** · [GitHub](https://github.com/Firmino68)
+** Pedro Firmino** · [GitHub](https://github.com/Firmino68)
